@@ -83,4 +83,3 @@ const obect = {
     'anna': 500,
     'elis': 800
 };
-
